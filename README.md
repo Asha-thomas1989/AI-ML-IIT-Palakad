@@ -1,2 +1,1 @@
-# Python Baiscs Asignment -2
- Weather Data Analyzer
+# Python Baiscs Asignments
