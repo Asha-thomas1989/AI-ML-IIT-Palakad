@@ -1,2 +1,2 @@
-# AI-ML-IIT-Palakad
-submission of assignments from ICT Academy
+# Python Baiscs Asignment -2
+ Weather Data Analyzer
